@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'stocksLaurence' target in the 'stocksLaurence' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
